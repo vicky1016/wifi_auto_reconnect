@@ -1,0 +1,2 @@
+# wifi_auto_reconnect
+一个Linux下自动检测Wi-Fi是否断开并自动重连的脚本，部分代码由AI生成
